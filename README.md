@@ -15,7 +15,7 @@
 ---
 ## Problem Solving
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tvluma777)](https://solved.ac/profile/tvluma777)
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+<br><img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
 
 ---
  ## 📞Contact
