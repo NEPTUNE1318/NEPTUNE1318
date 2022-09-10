@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=61bfad&height=300&section=header&text=NEPTUNE1318&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=61bfad&height=300&section=header&text=폐관수련고양이&fontSize=90&fontColor=ffffff)
 
 [![NEPTUNE1318's github stats](https://github-readme-stats.vercel.app/api?username=NEPTUNE1318&show_icons=true&theme=dracula)](https://github.com/NEPTUNE1318)
 
